@@ -1,0 +1,10 @@
+com\karman\config\AppConfig$1.class
+com\karman\exception\ResourceNotFoundMapper.class
+com\karman\controller\UserResource.class
+com\karman\repo\UserRepository.class
+com\karman\service\impl\AuthenticationServiceImpl.class
+com\karman\config\RandomString.class
+com\karman\model\User.class
+com\karman\config\AppConfig.class
+com\karman\exception\ResourceNotFoundException.class
+com\karman\service\AuthenticationService.class
